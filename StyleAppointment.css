@@ -1,0 +1,77 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f7f6;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+header h1 {
+    text-align: center;
+    color: #2c3e50;
+}
+
+.appointment-form {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #eee;
+}
+
+form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+
+input, select, button {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+    grid-column: span 2;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #eee;
+    text-align: right;
+}
+
+th {
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.delete-btn {
+    background-color: #e74c3c;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+}
