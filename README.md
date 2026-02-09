@@ -70,6 +70,8 @@
 صور من Jria
 
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/34e8bb74-81d1-49ff-9df6-330c62d62052" />
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/f1d74c9f-9d56-4baf-be17-f11b0611a9d9" />
+
 
 
 
