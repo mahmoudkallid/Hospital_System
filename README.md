@@ -69,10 +69,16 @@
 
 صور من Jria
 
-<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/34e8bb74-81d1-49ff-9df6-330c62d62052" />
-<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/f1d74c9f-9d56-4baf-be17-f11b0611a9d9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/427d15ec-5f3e-4a83-af74-b42cf3598962" />
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/3a95246f-c49d-4d70-b4f8-a43121306411" />
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/ae111f3d-cdd2-437f-8804-64b9398b507f" />
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/8491956b-766e-4c71-840f-1b04f4ea21d7" />
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/90b99901-7b49-4aeb-ba43-ec7919de8100" />
 
-<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/d727ace2-2642-44e7-abca-9d55c1d98e01" />
+
+
+
+
 
 
 
