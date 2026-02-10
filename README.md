@@ -1,6 +1,6 @@
 نظام إدارة المشفى (Hospital Management System):
 1. فكرة المشروع
-نظام لإدارة العمليات الطبية، سجلات المرضى، ومواعيد الأطباء بكفاءة عالية.
+نظام المشفى (الواجهة الرئيسية)، سجلات المرضى، ومواعيد الأطباء بكفاءة عالية.
 
 2. فريق العمل وتوزيع الأدوار
 3. 
@@ -39,7 +39,7 @@
 
 تنسيق الواجهات والألوان باستخدام CSS3 لتناسب هوية المشفى.
 
-توزيع العناصر (نموذج بيانات المريض، قائمة الأطباء، شاشة المواعيد).
+توزيع العناصر (نموذج بيانات المريض، الهيكل الاساسي الرئيسي للمشفى، شاشة المواعيد).
 
 المرحلة الثالثة: البرمجة والتفاعل (Front-end Logic)
 
@@ -54,11 +54,11 @@
 دمج الفروع (Merge Branches) ومراجعة الأكواد لضمان عدم وجود أخطاء.
 
 6. تقسيم المهام (Task Distribution)
-محمود السعدو: مسؤول عن التأسيس، إدارة Jira، وتنسيق ربط الصفحات.
+محمود السعدو: مسؤول عن التأسيس، إدارة Jira، وتنسيق ربط الصفحات و تصميم الهيكل الاساسي للمشفى(HTML,CSS).
 
-محمد الأسعد: مسؤول عن تصميم وبناء واجهة إدارة المرضى (HTML/CSS).
+محمد الأسعد: مسؤول عن تصميم وبناء واجهة إدارة المرضى (/JS/HTML/CSS).
 
-عبد الملك: مسؤول عن برمجة الوظائف التفاعلية ونموذج المواعيد (JS).
+عبد الملك: مسؤول عن برمجة الوظائف التفاعلية ونموذج المواعيد (,CSS,HTML,JS).
 
 7. شرح آلية العمل باستخدام Git
 يتم العمل بنظام Branches، حيث لا يتم التعديل على الفرع الرئيسي main مباشرة.
@@ -69,11 +69,13 @@
 
 صور من Jria
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/427d15ec-5f3e-4a83-af74-b42cf3598962" />
-<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/3a95246f-c49d-4d70-b4f8-a43121306411" />
-<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/ae111f3d-cdd2-437f-8804-64b9398b507f" />
-<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/8491956b-766e-4c71-840f-1b04f4ea21d7" />
-<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/90b99901-7b49-4aeb-ba43-ec7919de8100" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/83e60809-4eec-4980-92ef-b688c7c5f96d" />
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/3028b054-09fb-4adf-b0be-1ad2bb56e375" />
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/a8565f20-f12d-442a-a45d-d3f4f538e1ce" />
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/a0f8ae0b-149b-42d8-b254-7b57802cbf18" />
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/50b5a398-f27d-41ad-9670-ae8b90eadbba" />
+
 
 
 
