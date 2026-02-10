@@ -68,8 +68,7 @@
 يتم استخدام Pull Requests لمراجعة التغييرات قبل دمجها.
 
 صور من Jria
-
-<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/3ffa0f5d-6197-484a-b592-63cdc2d5f60a" />
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/18687a72-427d-4be4-9bb8-1eff46985485" />
 <img width="1920" height="1033" alt="image" src="https://github.com/user-attachments/assets/fcc1c0f8-e72f-40a7-83e0-03f5027bf5b9" />
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/3028b054-09fb-4adf-b0be-1ad2bb56e375" />
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/a8565f20-f12d-442a-a45d-d3f4f538e1ce" />
