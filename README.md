@@ -75,19 +75,3 @@
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/a8565f20-f12d-442a-a45d-d3f4f538e1ce" />
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/a0f8ae0b-149b-42d8-b254-7b57802cbf18" />
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/50b5a398-f27d-41ad-9670-ae8b90eadbba" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
