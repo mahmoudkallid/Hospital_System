@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>نظام إدارة مواعيد المرضى</title>
+    <link rel="stylesheet" href="StyleAppointment.css">
+</head>
+<body>
+<a href="index.html" style="text-decoration: none; color: blue;">← العودة للصفحة الرئيسية</a>
+    <div class="container">
+        <header>
+            <h1>نظام إدارة مواعيد العيادة</h1>
+        </header>
+
+        <section class="appointment-form">
+            <h2>إضافة موعد جديد</h2>
+            <form id="booking-form">
+                <input type="text" id="patientName" placeholder="اسم المريض" required>
+                <input type="date" id="appointmentDate" required>
+                <input type="time" id="appointmentTime" required>
+                <select id="doctorName">
+                    <option value="">اختر الطبيب</option>
+                    <option value="د. أحمد - عظام">د. أحمد - عظام</option>
+                    <option value="د. سارة - أطفال">د. سارة - أطفال</option>
+                    <option value="د. ليلى - أسنان">د. ليلى - أسنان</option>
+                </select>
+                <button type="submit">حجز الموعد</button>
+            </form>
+        </section>
+
+        <section class="appointment-list">
+            <h2>المواعيد المسجلة</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>اسم المريض</th>
+                        <th>التاريخ</th>
+                        <th>الوقت</th>
+                        <th>الطبيب</th>
+                        <th>إجراءات</th>
+                    </tr>
+                </thead>
+                <tbody id="appointmentTableBody">
+                    </tbody>
+            </table>
+        </section>
+    </div>
+
+    <script src="scriptAppointment.js"></script>
+</body>
+</html>

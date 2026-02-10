@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>إضافة مريض</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="patient-form.css">
+
+</head>
+
+<body>
+<a href="index.html" style="text-decoration: none; color: blue;">← العودة للصفحة الرئيسية</a>
+<div class="wrapper">
+
+<form id="patientForm" class="card">
+
+<h2>إضافة مريض جديد</h2>
+
+<div class="input-group">
+<input type="text" id="name" required>
+<label>اسم المريض</label>
+<small class="error" id="nameError"></small>
+</div>
+
+<div class="input-group">
+<input type="text" id="nationalId" required>
+<label>الرقم الوطني</label>
+<small class="error" id="idError"></small>
+</div>
+
+<div class="input-group">
+<input type="number" id="age" required>
+<label>العمر</label>
+<small class="error" id="ageError"></small>
+</div>
+
+<button type="submit">حفظ البيانات</button>
+
+<p id="successMessage"></p>
+
+</form>
+
+</div>
+
+<script src="patient-form.js"></script>
+
+</body>
+</html>
+
